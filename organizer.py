@@ -401,12 +401,12 @@ def execute_organization(
 def print_banner() -> None:
     """Displays the application title banner."""
     banner = r"""
-================================================================================
-           AUTOMATED FILE ORGANIZER & CLEANUP UTILITY
-================================================================================
-  Organize cluttered directories into categorized folders by extension.
-  Safety Guaranteed: No file deletions | Collision protection | Dry-run mode
-================================================================================
+================================================================
+          AUTOMATED FILE ORGANIZER & CLEANUP UTILITY
+================================================================
+ Organize directory files into categorized folders by extension.
+ Safety Guaranteed: No Deletions | Overwrite Protection | Dry-Run
+================================================================
 """
     print(banner)
 
