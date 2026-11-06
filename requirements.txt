@@ -1,0 +1,13 @@
+# Automated File Organizer & Cleanup Utility
+# Python Programming Internship - Task 3
+#
+# This project uses Python 3 standard library modules only:
+# - os
+# - shutil
+# - pathlib
+# - logging
+# - argparse
+# - sys
+# - dataclasses
+#
+# No external third-party dependencies are required.
